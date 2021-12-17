@@ -1,0 +1,7 @@
+ Ha ganado el jugador. 
+Máquina
+puntos: 9
+Cartas: 4 5 
+Jugador
+puntos: 6.5
+Cartas: 6 11 

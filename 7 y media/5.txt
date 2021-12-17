@@ -1,0 +1,7 @@
+ Ha ganado la máquina. 
+Máquina
+puntos: 11
+Cartas: 4 7 
+Jugador
+puntos: 8
+Cartas: 3 5 
